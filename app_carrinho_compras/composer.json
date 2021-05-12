@@ -1,0 +1,16 @@
+{
+    "name": "adria/app_carrinho_compras",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Adriano Souza",
+            "email": "adriano.msx8@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4" : {
+            "App\\" : "src/"
+        }
+    }
+}
