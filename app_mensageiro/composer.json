@@ -1,0 +1,15 @@
+{
+    "name": "adria/app_mensageiro",
+    "authors": [
+        {
+            "name": "Adriano Souza",
+            "email": "adriano.msx8@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "src\\" : "src/"
+        }
+    }
+}
